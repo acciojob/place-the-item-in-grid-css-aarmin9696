@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
-div.holder{
+.holder{
 	display: grid;
-	grid-template-columns: (2, 100px);
+	grid-template-columns: repeat(2, 100px);
 
 }
